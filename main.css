@@ -1,9 +1,6 @@
-
-.nav {
-  display: fixed;
-}
 #navlinks li {
   display:inline;
   float: right;
   padding: 20px;
+  background-color: yellow;
 }
